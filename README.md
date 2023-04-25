@@ -1,4 +1,4 @@
-## 😃 How to reach me
+## 📧 How to reach me
 <p>
 <a href="mailto:blueehdwp@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Mail-0082FC?style=flat-square,&logo=minutemailer&logoColor=white"/>
@@ -7,7 +7,8 @@
 
 <br/>
 <br/>
-## greetings
+
+## 😃 Greetings
 <p>
 👋 Hi there!
 </p>
