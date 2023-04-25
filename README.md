@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
-
+<br/>
+<br/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueDeveloper&show_icons=true&theme=radical)
