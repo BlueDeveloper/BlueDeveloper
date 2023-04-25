@@ -1,4 +1,4 @@
-### 😃 How to reach me
+## 😃 How to reach me
 <p>
 <a href="mailto:blueehdwp@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Mail-0082FC?style=flat-square,&logo=minutemailer&logoColor=white"/>
@@ -9,8 +9,8 @@
 👋 Hi there!
 </p>
 
-# 📚 Skills
-### i use the most
+## 📚 Skills
+#### i use the most
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
