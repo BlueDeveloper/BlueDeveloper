@@ -17,7 +17,7 @@
 <br/>
 
 ## 📚 Skills
-#### i use the most
+### most use
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -31,13 +31,13 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 </p>
 
-#### what i'm studying
+### studying
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 
-#### use when needed
+### available
 <p>
   <img src="https://img.shields.io/badge/JenKins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/>
