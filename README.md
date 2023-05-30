@@ -48,3 +48,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueDeveloper&show_icons=true&theme=radical)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlueDeveloper%2Fhit-counter&count_bg=%231D00FF&title_bg=%231D00FF&icon=iconify.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
